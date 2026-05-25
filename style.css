@@ -1,6 +1,10 @@
 body{
-     background-color: blue;
+     background-color: rgb(191, 176, 6);
+     text-align: center;
 }
 img{
-    width: 100px;
+    width: 200px;
+}
+p, h1, H2{
+    color: rgb(4, 255, 0);
 }
